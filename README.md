@@ -1,8 +1,5 @@
-# jupyter_webapp_demo
-Code for the article "How to Create an Interactive Web Application using Jupyter Notebook".
+# Folium-Choropleth-Map-Heroku
+This repository contains the code for deploying a Folium Choropleth map as a Web App using Heroku and Flask
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb)
-
-Try the demo here: https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb
-
-Complete blog article and video tutorial: https://blog.finxter.com/how-to-create-an-interactive-web-application-using-jupyter-notebook/
+For step by step instructions checkout my medium article on it
+https://medium.com/@adeoluwaadeboye/data-visualization-deploying-an-interactive-map-as-a-web-app-with-heroku-51a323029e4
